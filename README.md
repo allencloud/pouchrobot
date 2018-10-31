@@ -96,7 +96,7 @@ Currently only three kinds of document are covered:
 
 pouchrobot acts as a daemon process on a third-party public cloud. When running, it would have three kinds of API communication:
 
-* receive github webhook of project [Pouch](https://github.com/alibaba/pouch) when events happen;
+* receive github webhook of your specified project when events happen;
 * receive CI system webhooks, like travisCI and circleCI;
 * fetch and deal with object on project, like issue, pull request, comments and so so;
 

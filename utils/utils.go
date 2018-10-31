@@ -112,7 +112,7 @@ If you didn't, you should do that first. If done, welcome again and please enjoy
 
 // FirstCommitComment is a comment used to thank a user's first contribution.
 var FirstCommitComment = fmt.Sprintf(
-	"We found this is your first time to contribute to Pouch, @%s \n%s",
+	"We found this is your first time to contribute to this project, @%s \n%s",
 	"%s",
 	FirstCommitCommentSubStr,
 )

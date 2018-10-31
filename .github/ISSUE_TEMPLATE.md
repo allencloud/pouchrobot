@@ -19,7 +19,6 @@
 
 ### Ⅵ. Environment:
 
-- pouch version (use `pouch version`):
 - OS (e.g. from /etc/os-release):
 - Kernel (e.g. `uname -a`):
 - Install tools:
